@@ -1,4 +1,4 @@
-#PTTG
+# PTTG
 
 I am ready to present you the final version of the application for Windows - PRTG - Probability theory task generator.
 
